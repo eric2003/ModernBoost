@@ -1,0 +1,1 @@
+cmake -DBoost_DEBUG=ON ..
